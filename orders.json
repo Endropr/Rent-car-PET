@@ -1,0 +1,9 @@
+[
+  {
+    "owner": "User",
+    "rent_car": "\u001b[37;1mFord\u001b[0m \u001b[37;1mMustang\u001b[0m",
+    "rent_hour": 1,
+    "total": 2200,
+    "date": "2026-02-09 21:47:11"
+  }
+]
