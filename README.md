@@ -27,7 +27,7 @@
 1. Убедитесь, что у вас установлен [Go](https://go.dev/dl/) версии 1.20 или выше.
 2. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Endropr/Rent-car-PET.git
+   git clone https://github.com/Endropr/Rent-car-PET.git
 3. Перейдите в папку проекта:
    ```bash
    cd "rent car"
